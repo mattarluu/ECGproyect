@@ -1,0 +1,12 @@
+The database contains information on 294 patients and electrocardiograms, divided into folders. 
+Within each folder, we can find one or more .dat files (raw electrocardiogram signals), and their corresponding .hea files 
+(text files containing information about an electrocardiogram) and .xyz files (not relevant).
+
+
+The source of the database is: https://physionet.org/content/ptbdb/1.0.0/
+
+
+PhysioNet is a free, public platform that provides access to biomedical databases, tools, and software for 
+the analysis of physiological signals, especially those of the heart, brain, and other vital systems.
+
+

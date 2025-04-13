@@ -1,0 +1,2 @@
+pip install pandas scikit-learn imbalanced-learn wfdb xgboost matplotlib seaborn neurokit2 scipy numpy matplotlib 
+    #!pip install pandas scikit-learn imbalanced-learn wfdb xgboost matplotlib seaborn neurokit2 scipy numpy matplotlib
